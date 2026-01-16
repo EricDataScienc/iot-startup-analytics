@@ -129,7 +129,16 @@ Adicione aqui screenshots do dashboard:
 </p>
 
 <pre>
+## 📸 Visual do Projeto
+
+### Dashboard Principal
 ![Dashboard](./assets/dashboard.png)
+
+### Gráfico Radar
+![Radar](./assets/radar.png)
+
+### Boxplot por Setor
+![Boxplot](./assets/boxplot.png)
 </pre>
 
 <hr>
