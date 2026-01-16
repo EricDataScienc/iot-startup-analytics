@@ -129,16 +129,17 @@ Adicione aqui screenshots do dashboard:
 </p>
 
 <pre>
-## 📸 Visual do Projeto
+<h2>📸 Visual do Projeto</h2>
 
-### Dashboard Principal
-![Dashboard](./assets/dashboard.jpeg)
+<h3>Dashboard Principal</h3>
+<img src="./assets/dashboard.jpeg" width="800"/>
 
-### Gráfico Radar
-![Radar](./assets/radar.jpeg)
+<h3>Gráfico Radar</h3>
+<img src="./assets/radar.jpeg" width="800"/>
 
-### Boxplot por Setor
-![Boxplot](./assets/boxplot.jpeg)
+<h3>Boxplot por Setor</h3>
+<img src="./assets/boxplot.jpeg" width="800"/>
+
 </pre>
 
 <hr>
