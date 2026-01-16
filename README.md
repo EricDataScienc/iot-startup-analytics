@@ -124,13 +124,6 @@ O navegador abrirá automaticamente em:
 
 <h2>📸 Visual do Projeto</h2>
 
-<p>
-Adicione aqui screenshots do dashboard:
-</p>
-
-<pre>
-<h2>📸 Visual do Projeto</h2>
-
 <h3>Dashboard Principal</h3>
 <img src="./assets/dashboard.jpeg" width="800"/>
 
