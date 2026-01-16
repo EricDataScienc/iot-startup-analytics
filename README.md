@@ -132,13 +132,13 @@ Adicione aqui screenshots do dashboard:
 ## 📸 Visual do Projeto
 
 ### Dashboard Principal
-![Dashboard](./assets/dashboard.png)
+![Dashboard](./assets/dashboard.jpeg)
 
 ### Gráfico Radar
-![Radar](./assets/radar.png)
+![Radar](./assets/radar.jpeg)
 
 ### Boxplot por Setor
-![Boxplot](./assets/boxplot.png)
+![Boxplot](./assets/boxplot.jpeg)
 </pre>
 
 <hr>
