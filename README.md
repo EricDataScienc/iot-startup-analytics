@@ -103,7 +103,7 @@ iot-startup-analytics/
 <h2>▶️ Como Executar</h2>
 
 <pre>
-git clone https://github.com/SEU-USUARIO/iot-startup-analytics.git
+git clone https://github.com/EricDataScienc/iot-startup-analytics.git
 cd iot-startup-analytics
 
 python -m venv .venv
